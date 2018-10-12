@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+	color:#8D0B0B
+	
+}
+
+#header{
+	background-color: black;
+	text-align: center;
+	
+}
+
+#sub{
+	text-align: center;
+}
+
+#header{
+			border: 10px solid black;
+		}
